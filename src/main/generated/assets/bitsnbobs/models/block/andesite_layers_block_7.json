@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_7",
+  "textures": {
+    "bottom": "minecraft:block/andesite",
+    "overlay": "minecraft:block/andesite",
+    "particle": "minecraft:block/andesite",
+    "side": "minecraft:block/andesite",
+    "top": "minecraft:block/andesite"
+  }
+}

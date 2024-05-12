@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:crimson_nylium"
+  },
+  "result": "bitsnbobs:crimson_nylium_layers_block"
+}

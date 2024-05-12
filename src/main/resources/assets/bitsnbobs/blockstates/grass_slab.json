@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bitsnbobs:block/grass_slab"
+    },
+    "type=double": {
+      "model": "bitsnbobs:block/grass_slab_full"
+    },
+    "type=top": {
+      "model": "bitsnbobs:block/grass_slab_top"
+    }
+  }
+}

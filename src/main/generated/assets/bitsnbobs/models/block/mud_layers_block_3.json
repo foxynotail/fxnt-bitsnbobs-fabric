@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_3",
+  "textures": {
+    "bottom": "minecraft:block/mud",
+    "overlay": "minecraft:block/mud",
+    "particle": "minecraft:block/mud",
+    "side": "minecraft:block/mud",
+    "top": "minecraft:block/mud"
+  }
+}

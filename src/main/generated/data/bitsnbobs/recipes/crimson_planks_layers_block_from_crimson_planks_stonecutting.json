@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:crimson_planks"
+  },
+  "result": "bitsnbobs:crimson_planks_layers_block"
+}

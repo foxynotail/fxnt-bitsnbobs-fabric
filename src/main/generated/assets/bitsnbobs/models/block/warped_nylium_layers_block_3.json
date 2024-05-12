@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_3",
+  "textures": {
+    "bottom": "minecraft:block/netherrack",
+    "overlay": "minecraft:block/warped_nylium_side",
+    "particle": "minecraft:block/warped_nylium_side",
+    "side": "minecraft:block/warped_nylium_side",
+    "top": "minecraft:block/warped_nylium"
+  }
+}

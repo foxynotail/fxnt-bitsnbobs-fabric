@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": "bitsnbobs:granite_layers_block"
+}

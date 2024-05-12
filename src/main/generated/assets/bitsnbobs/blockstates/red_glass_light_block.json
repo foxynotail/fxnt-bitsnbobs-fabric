@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bitsnbobs:block/red_glass_light_block"
+    }
+  }
+}

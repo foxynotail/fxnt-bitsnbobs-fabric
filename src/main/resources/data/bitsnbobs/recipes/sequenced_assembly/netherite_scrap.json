@@ -1,0 +1,73 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "bitsnbobs:netherite_dust"
+  },
+  "loops": 5,
+  "results": [
+    {
+    "chance": 120.0,
+    "item": "minecraft:netherite_scrap"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "chance": 8.0,
+      "item": "create:cinder_flour"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        },
+        {
+          "item": "create:experience_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:unprocessed_netherite_dust"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "bitsnbobs:unprocessed_netherite_dust"
+  }
+}

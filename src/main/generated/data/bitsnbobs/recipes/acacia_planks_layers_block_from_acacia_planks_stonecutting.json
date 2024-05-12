@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "result": "bitsnbobs:acacia_planks_layers_block"
+}

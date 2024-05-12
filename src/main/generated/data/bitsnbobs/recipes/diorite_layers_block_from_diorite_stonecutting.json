@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "bitsnbobs:diorite_layers_block"
+}

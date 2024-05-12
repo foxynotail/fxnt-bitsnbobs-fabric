@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:old_thatch_block"
+    },
+    {
+      "item": "minecraft:mud"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "bitsnbobs:mulch_block"
+    }
+  ]
+}

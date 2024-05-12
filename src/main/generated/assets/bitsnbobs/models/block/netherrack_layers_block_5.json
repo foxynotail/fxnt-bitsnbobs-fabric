@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_5",
+  "textures": {
+    "bottom": "minecraft:block/netherrack",
+    "overlay": "minecraft:block/netherrack",
+    "particle": "minecraft:block/netherrack",
+    "side": "minecraft:block/netherrack",
+    "top": "minecraft:block/netherrack"
+  }
+}

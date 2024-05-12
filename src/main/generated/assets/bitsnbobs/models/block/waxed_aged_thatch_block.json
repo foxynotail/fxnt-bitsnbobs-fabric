@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bitsnbobs:block/aged_thatch_block_top",
+    "side": "bitsnbobs:block/aged_thatch_block_side"
+  }
+}

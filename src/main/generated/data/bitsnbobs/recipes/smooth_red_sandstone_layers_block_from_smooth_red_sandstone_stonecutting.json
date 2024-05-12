@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:smooth_red_sandstone"
+  },
+  "result": "bitsnbobs:smooth_red_sandstone_layers_block"
+}

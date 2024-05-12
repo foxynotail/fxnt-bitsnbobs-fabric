@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:hot_coal_block"
+    },
+    {
+      "item": "bitsnbobs:hot_coal_block"
+    },
+    {
+      "item": "bitsnbobs:hot_coal_block"
+    },
+    {
+      "item": "bitsnbobs:hot_coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "bitsnbobs:compressed_coal_block"
+    }
+  ]
+}

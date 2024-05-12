@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_7",
+  "textures": {
+    "bottom": "minecraft:block/warped_planks",
+    "overlay": "minecraft:block/warped_planks",
+    "particle": "minecraft:block/warped_planks",
+    "side": "minecraft:block/warped_planks",
+    "top": "minecraft:block/warped_planks"
+  }
+}

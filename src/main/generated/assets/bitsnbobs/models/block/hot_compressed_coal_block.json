@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bitsnbobs:block/hot_compressed_coal_block"
+  }
+}

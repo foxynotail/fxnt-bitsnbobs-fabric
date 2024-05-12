@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bitsnbobs:grass_slab",
+    "bitsnbobs:dirt_slab",
+    "bitsnbobs:coarse_dirt_slab",
+    "bitsnbobs:gravel_slab",
+    "bitsnbobs:sand_slab"
+  ]
+}

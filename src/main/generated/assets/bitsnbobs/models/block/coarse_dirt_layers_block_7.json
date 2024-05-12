@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_7",
+  "textures": {
+    "bottom": "minecraft:block/coarse_dirt",
+    "overlay": "minecraft:block/coarse_dirt",
+    "particle": "minecraft:block/coarse_dirt",
+    "side": "minecraft:block/coarse_dirt",
+    "top": "minecraft:block/coarse_dirt"
+  }
+}

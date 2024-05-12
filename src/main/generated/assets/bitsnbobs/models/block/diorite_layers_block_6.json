@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_6",
+  "textures": {
+    "bottom": "minecraft:block/diorite",
+    "overlay": "minecraft:block/diorite",
+    "particle": "minecraft:block/diorite",
+    "side": "minecraft:block/diorite",
+    "top": "minecraft:block/diorite"
+  }
+}

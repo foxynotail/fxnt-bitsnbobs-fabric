@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "result": "bitsnbobs:sand_layers_block"
+}

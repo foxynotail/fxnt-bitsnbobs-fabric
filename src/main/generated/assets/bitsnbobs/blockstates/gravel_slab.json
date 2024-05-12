@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bitsnbobs:block/gravel_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/gravel"
+    },
+    "type=top": {
+      "model": "bitsnbobs:block/gravel_slab_top"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:compressed_mulch_block"
+    },
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "bitsnbobs:aged_compressed_mulch_block"
+    }
+  ]
+}

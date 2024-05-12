@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "bitsnbobs",
+  "version": "${version}",
+  "name": "FXNT BitsNBobs [Fabric]",
+  "description": "A few bits and bobs for Minecraft by FoxyNoTail",
+  "authors": [
+    "FoxyNoTail"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/bitsnbobs/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.fxnt.bitsnbobs.BitsNBobsDataGenerator"
+    ],
+    "client": [
+      "net.fxnt.bitsnbobs.BitsNBobsClient"
+    ],
+    "main": [
+      "net.fxnt.bitsnbobs.BitsNBobs"
+    ]
+  },
+  "mixins": [
+    "bitsnbobs.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${fabric_loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:andesite_alloy"
+  },
+  "result": "bitsnbobs:andesite_grate_block",
+  "count": 2
+}

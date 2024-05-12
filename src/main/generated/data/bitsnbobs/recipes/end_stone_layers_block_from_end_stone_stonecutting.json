@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "result": "bitsnbobs:end_stone_layers_block"
+}

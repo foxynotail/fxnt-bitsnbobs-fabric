@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_2",
+  "textures": {
+    "bottom": "minecraft:block/mossy_cobblestone",
+    "overlay": "minecraft:block/mossy_cobblestone",
+    "particle": "minecraft:block/mossy_cobblestone",
+    "side": "minecraft:block/mossy_cobblestone",
+    "top": "minecraft:block/mossy_cobblestone"
+  }
+}

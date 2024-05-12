@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_2",
+  "textures": {
+    "bottom": "minecraft:block/clay",
+    "overlay": "minecraft:block/clay",
+    "particle": "minecraft:block/clay",
+    "side": "minecraft:block/clay",
+    "top": "minecraft:block/clay"
+  }
+}

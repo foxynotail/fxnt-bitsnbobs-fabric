@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bitsnbobs:thatch_block",
+    "bitsnbobs:aged_thatch_block",
+    "bitsnbobs:old_thatch_block",
+    "bitsnbobs:waxed_thatch_block",
+    "bitsnbobs:waxed_aged_thatch_block"
+  ]
+}

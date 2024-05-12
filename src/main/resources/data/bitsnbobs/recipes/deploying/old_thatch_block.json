@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:aged_thatch_block"
+    },
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "bitsnbobs:old_thatch_block"
+    }
+  ]
+}

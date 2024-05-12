@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_2",
+  "textures": {
+    "bottom": "minecraft:block/acacia_planks",
+    "overlay": "minecraft:block/acacia_planks",
+    "particle": "minecraft:block/acacia_planks",
+    "side": "minecraft:block/acacia_planks",
+    "top": "minecraft:block/acacia_planks"
+  }
+}

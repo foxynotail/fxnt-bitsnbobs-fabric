@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_2",
+  "textures": {
+    "bottom": "minecraft:block/muddy_mangrove_roots_top",
+    "overlay": "minecraft:block/muddy_mangrove_roots_side",
+    "particle": "minecraft:block/muddy_mangrove_roots_side",
+    "side": "minecraft:block/muddy_mangrove_roots_side",
+    "top": "minecraft:block/muddy_mangrove_roots_top"
+  }
+}

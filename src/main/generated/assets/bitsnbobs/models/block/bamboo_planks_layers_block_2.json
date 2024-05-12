@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_2",
+  "textures": {
+    "bottom": "minecraft:block/bamboo_planks",
+    "overlay": "minecraft:block/bamboo_planks",
+    "particle": "minecraft:block/bamboo_planks",
+    "side": "minecraft:block/bamboo_planks",
+    "top": "minecraft:block/bamboo_planks"
+  }
+}

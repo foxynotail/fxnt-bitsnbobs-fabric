@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_1",
+  "textures": {
+    "bottom": "minecraft:block/gravel",
+    "overlay": "minecraft:block/gravel",
+    "particle": "minecraft:block/gravel",
+    "side": "minecraft:block/gravel",
+    "top": "minecraft:block/gravel"
+  }
+}

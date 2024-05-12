@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:deepslate"
+  },
+  "result": "bitsnbobs:deepslate_layers_block"
+}

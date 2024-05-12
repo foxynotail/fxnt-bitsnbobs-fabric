@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:rooted_dirt"
+  },
+  "result": "bitsnbobs:rooted_dirt_layers_block"
+}

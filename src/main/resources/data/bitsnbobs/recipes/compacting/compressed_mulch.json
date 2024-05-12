@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:mulch_block"
+    },
+    {
+      "item": "bitsnbobs:mulch_block"
+    },
+    {
+      "item": "bitsnbobs:mulch_block"
+    },
+    {
+      "item": "bitsnbobs:mulch_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "bitsnbobs:compressed_mulch_block"
+    }
+  ]
+}

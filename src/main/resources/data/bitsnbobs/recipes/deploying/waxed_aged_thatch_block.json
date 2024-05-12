@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "bitsnbobs:aged_thatch_block"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "results": [
+    {
+      "item": "bitsnbobs:waxed_aged_thatch_block"
+    }
+  ]
+}

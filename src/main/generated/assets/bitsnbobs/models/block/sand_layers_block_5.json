@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_5",
+  "textures": {
+    "bottom": "minecraft:block/sand",
+    "overlay": "minecraft:block/sand",
+    "particle": "minecraft:block/sand",
+    "side": "minecraft:block/sand",
+    "top": "minecraft:block/sand"
+  }
+}

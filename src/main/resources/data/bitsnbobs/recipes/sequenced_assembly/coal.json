@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "bitsnbobs:aged_compressed_mulch_block"
+  },
+  "loops": 5,
+  "results": [
+    {
+    "chance": 95.0,
+    "item": "minecraft:coal"
+    },
+    {
+      "chance": 5.0,
+      "item": "bitsnbobs:mulch_block"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:aged_compressed_mulch_block"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "bitsnbobs:hot_aged_compressed_mulch_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "result": "bitsnbobs:mossy_cobblestone_layers_block"
+}

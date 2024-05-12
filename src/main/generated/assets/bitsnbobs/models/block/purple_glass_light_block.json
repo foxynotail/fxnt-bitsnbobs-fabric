@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bitsnbobs:block/purple_glass_light_block"
+  }
+}

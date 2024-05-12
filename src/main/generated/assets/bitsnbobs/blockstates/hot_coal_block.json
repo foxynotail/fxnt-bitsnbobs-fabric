@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bitsnbobs:block/hot_coal_block"
+    }
+  }
+}

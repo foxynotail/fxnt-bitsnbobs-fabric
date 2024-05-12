@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_7",
+  "textures": {
+    "bottom": "minecraft:block/blackstone",
+    "overlay": "minecraft:block/blackstone",
+    "particle": "minecraft:block/blackstone",
+    "side": "minecraft:block/blackstone",
+    "top": "minecraft:block/blackstone_top"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_4",
+  "textures": {
+    "bottom": "minecraft:block/crimson_planks",
+    "overlay": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_planks",
+    "side": "minecraft:block/crimson_planks",
+    "top": "minecraft:block/crimson_planks"
+  }
+}

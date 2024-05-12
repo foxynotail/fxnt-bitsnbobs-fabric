@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "bitsnbobs:compressed_coal_block"
+  },
+  "loops": 5,
+  "results": [
+    {
+    "chance": 50.0,
+    "item": "bitsnbobs:rough_diamond"
+    },
+    {
+      "chance": 50.0,
+      "item": "minecraft:coal"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:compressed_coal_block"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_compressed_coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:hot_compressed_coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_compressed_coal_block"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "bitsnbobs:hot_compressed_coal_block"
+        }
+      ],
+      "results": [
+        {
+          "item": "bitsnbobs:hot_compressed_coal_block"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "bitsnbobs:hot_compressed_coal_block"
+  }
+}

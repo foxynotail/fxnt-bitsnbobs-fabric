@@ -1,0 +1,10 @@
+{
+  "parent": "bitsnbobs:block/layers_block_7",
+  "textures": {
+    "bottom": "minecraft:block/cherry_planks",
+    "overlay": "minecraft:block/cherry_planks",
+    "particle": "minecraft:block/cherry_planks",
+    "side": "minecraft:block/cherry_planks",
+    "top": "minecraft:block/cherry_planks"
+  }
+}

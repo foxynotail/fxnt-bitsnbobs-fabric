@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": "bitsnbobs:oak_planks_layers_block"
+}

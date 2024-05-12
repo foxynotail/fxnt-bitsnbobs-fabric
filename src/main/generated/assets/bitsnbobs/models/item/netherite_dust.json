@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bitsnbobs:item/netherite_dust"
+  }
+}

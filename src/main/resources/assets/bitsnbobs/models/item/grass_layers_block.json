@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "bitsnbobs:block/grass_block_top_color"
+  }
+}

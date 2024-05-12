@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bitsnbobs:block/thatch_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bitsnbobs:block/thatch_block"
+    },
+    "axis=z": {
+      "model": "bitsnbobs:block/thatch_block",
+      "x": 90
+    }
+  }
+}

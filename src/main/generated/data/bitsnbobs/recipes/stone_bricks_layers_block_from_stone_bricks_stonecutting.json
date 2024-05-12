@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:stone_bricks"
+  },
+  "result": "bitsnbobs:stone_bricks_layers_block"
+}

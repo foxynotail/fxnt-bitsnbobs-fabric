@@ -1,0 +1,11 @@
+{
+  "parent": "bitsnbobs:block/layers_block_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "overlay": "minecraft:block/grass_block_side_overlay",
+    "particle": "minecraft:block/grass_block_side",
+    "side": "minecraft:block/grass_block_side",
+    "top": "minecraft:block/grass_block_top"
+  }
+}
