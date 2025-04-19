@@ -1,3 +1,6 @@
+# Updates
+There are no plans to support or update this mod. It is open source so feel free to modify and update it yourself.
+
 This mod is from FoxyNoTail's FXNT Create Let's Play. 
 It features a handful of new blocks as well as a bunch of new recipes for the Create Mod.
 
